@@ -6,17 +6,24 @@ body {
 
 #con {
   background-color: #ced2f5;
-  padding: 5px 10px;
-  width: 100%;
-  box-sizing: border-box;
-  margin-bottom: 2%;
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 400px;
+  border-radius: 5px;
   border-style: outset;
+  text-align: left;
+  height: 350px; 
 }
 
-h1 {
-  text-align: center;
-  color: #d1581b;
+input{
+	box-sizing: border-box;
+	width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
+
 
 #button {
   color: #809ac2;
