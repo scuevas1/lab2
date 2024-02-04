@@ -18,10 +18,9 @@ h1 {
 }
 
 #button {
-  background-color: #809ac2;
-  color: white;
+  color: #809ac2;
   width: 50%;
-  border-radius: 15px 50px;
+  border-radius: 15px 25px;
   padding: 5px 10px;
   font-size: 25px;
   cursor: pointer;
