@@ -21,6 +21,7 @@ h1 {
   background-color: #809ac2;
   color: white;
   width: 50%;
+  box-sizing: border-box;
   border-radius: 15px 50px;
   padding: 5px 10px;
   font-size: 25px;
