@@ -7,7 +7,7 @@ body {
 #con {
   background-color: #ced2f5;
   margin: 40px auto;
-  padding: 20px;
+  padding: 50px;
   max-width: 400px;
   border-radius: 5px;
   border-style: outset;
@@ -38,6 +38,3 @@ input{
   background-color: #404d61
 }
 
-label {
-  font-size: 20px;
-}
