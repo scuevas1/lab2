@@ -1,18 +1,19 @@
-body{
-	line-height: 1.2em;
-	font-family: Arial;
-	font-size: 1.3em;
+body {
+  font-family: fantasy;
+  width: 100%;
+  font-size: 30px;
 }
 
-/* Style the form container */
-#container {
-  margin: 40px auto;
-  border-radius: 5px;
-  background-color: lightblue;
-  padding: 20px;
+#con {
+  background-color: #ced2f5;
+  padding: 50px;
   max-width: 400px;
-  text-align: left; 
-  height: 350px;
+  margin: 40px;
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+  border-style: outset;
+  text-align: left;
+  height: 350px; 
 }
 
 input{
@@ -25,16 +26,16 @@ input{
 }
 
 
-#submit {
-  background-color: blue;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
+#button {
+  color: #809ac2;
+  width: 50%;
+  border-radius: 15px 25px;
+  padding: 5px 10px;
+  font-size: 25px;
   cursor: pointer;
 }
 
-
-#submit:hover {
-  background-color: darkblue;
+#button:hover {
+  background-color: #404d61
 }
+
