@@ -18,14 +18,18 @@ h1 {
 }
 
 #button {
+  background-color: #809ac2;
+  color: white;
   width: 50%;
   border-radius: 15px 50px;
   padding: 5px 10px;
-  font-family: 'Cute Font', sans-serif;
   font-size: 25px;
   margin-top: 2%;
   margin-left: 25%;
-  
+}
+
+#button:hover {
+  background-color: #404d61
 }
 
 label {
