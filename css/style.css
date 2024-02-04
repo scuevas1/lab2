@@ -4,7 +4,12 @@ body {
   font-size: 30px;
 }
 
+h1 {
+  text-align:center;
+}
+
 #con {
+  float:center;
   background-color: #ced2f5;
   padding: 50px;
   max-width: 400px;
