@@ -49,6 +49,7 @@ input{
 @media screen and (min-width: 620px) {
   header {
     font-size: 1.3em;
+    font-family: 'Arial';
     padding-bottom: 0.75em;
   }
 }
